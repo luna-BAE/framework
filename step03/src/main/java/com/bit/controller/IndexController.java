@@ -1,4 +1,4 @@
-package com.bit.dept.controller;
+package com.bit.controller;
 
 import javax.servlet.http.HttpServletRequest;
 

@@ -11,7 +11,7 @@ public class ListController implements Controller {
 
 		
 		
-		return "list";
+		return "dept/list";
 	}
 
 }

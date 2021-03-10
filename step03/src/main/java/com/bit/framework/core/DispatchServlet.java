@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.bit.dept.controller.IndexController;
+import com.bit.controller.IndexController;
 import com.bit.dept.controller.ListController;
 import com.bit.framework.Controller;
 
